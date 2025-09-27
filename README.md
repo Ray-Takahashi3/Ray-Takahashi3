@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ray-Takahashi3 
-- 👀 I’m interested in gen-AI, mathematical statistics, financial engineering, and etc.
+- 👀 I’m interested in gen-AI, mathematical statistics, financial engineering, etc.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Tokyo 
