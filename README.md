@@ -10,3 +10,4 @@
 Ray-Takahashi3/Ray-Takahashi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![まおちゃんー](https://github.com/user-attachments/assets/15861eac-abbf-4468-a1a9-1924bceb851f)
